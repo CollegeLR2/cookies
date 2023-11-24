@@ -8,6 +8,8 @@
 <body>
     <h1>Tasks involving cookies</h1>
     <ul>
-        <li><a href="guess.php?clear=1">A guessing game</a></li>
+        <li><a href="guess.php?clear=1">A guessing game (cookies)</a></li>
+        <li><a href="sessions.php?">A guessing game (sessions)</a></li>
+    </ul>
 </body>
 </html>
